@@ -1,11 +1,10 @@
 import React from 'react';
 // import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      2132131
+      2132131112312
     </div>
   );
 }

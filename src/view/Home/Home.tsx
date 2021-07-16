@@ -1,6 +1,6 @@
 
 // import { Route, Redirect } from 'react-router-dom';
-import Api from '../utils/http/Api';
+import Api from '../../utils/http/Api';
 import * as React from 'react';
 type state = {
 	userName: string;
@@ -22,7 +22,7 @@ class Home extends React.Component<any, state> {
 		})
 	}
 	render() {
-		return (<div>{this.state.userName}</div>)
+		return (<div>{this.state.userName}21321321211A</div>)
 	}
 }
 export default Home;

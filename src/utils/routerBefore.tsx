@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Redirect } from "react-router-dom";
+
 interface user {
 	path: string;
 	component: any;

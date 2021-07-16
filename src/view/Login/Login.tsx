@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 import { Form, Input, Button, Checkbox } from 'antd';
-import Api from '../utils/http/Api';
-import '../css/Login.css';
+import Api from '../../utils/http/Api';
+import './Login.less';
 import md5 from 'js-md5';
 type Props = {
 	history: any;

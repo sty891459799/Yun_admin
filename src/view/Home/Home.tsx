@@ -22,7 +22,7 @@ class Home extends React.Component<any, state> {
 		})
 	}
 	render() {
-		return (<div>{this.state.userName}21321321211A</div>)
+		return (<div>{this.state.userName}213213212111111A</div>)
 	}
 }
 export default Home;
